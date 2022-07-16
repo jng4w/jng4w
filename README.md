@@ -3,9 +3,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--BIO-->
-Hello, you can call me `Asthi Seta`. I’m `18 years old`. My house is in `East Java, Indonesia`, 
+Hello, you can call me `Tinh`. I’m `22 years old`. I live in `Ho Chi Minh City, Vietnam`, 
 
-I'm a `student at Telkom Malang Vocational High School`, mainly interested in Android app development with Kotlin, or desktop app development, Python, illustrations and graphic design. And currently learning Flutter  on [Dicoding](https://www.dicoding.com/)
+I'm a `student at HCMC University of Technology`, mainly interested in Backend development with Java, or desktop app development, Python, illustrations and graphic design. And currently learning Flutter  on [Dicoding](https://www.dicoding.com/)
 
 Also kinda interested in some cybersecurity stuffs.
 
@@ -41,10 +41,10 @@ Also kinda interested in some cybersecurity stuffs.
 <details>
   <summary>My latest project with my fellow friends 🚧</summary>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma_ciphers_cryptograms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jng4w&repo=KKM&theme=github_dark)](https://github.com/jng4w)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jng4w&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/jng4w/sigma_ciphers_cryptograms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jng4w&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jng4w&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
   
 </details>
 
@@ -105,10 +105,10 @@ Also kinda interested in some cybersecurity stuffs.
 
 
 ## Feel Free To Reach me 📫:
-[![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+[![Gmail Badge](https://img.shields.io/badge/-duytinhnguyenforwork@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:duytinhnguyenforwork@gmail.com)](mailto:duytinhnguyenforwork@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/xdtn7/)](https://www.instagram.com/xdtn7/)
 [![Behance Badge](https://img.shields.io/badge/-asthi21-053eff?style=flat-roundedrectangle&logo=behance&logoColor=white&link=https://www.behance.net/asthi21)](https://www.behance.net/asthi21) 
-[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asthiseta)](https://www.linkedin.com/in/asthiseta)
+[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xdtn7)](https://www.linkedin.com/in/xdtn7)
 [![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-roundedrectangle&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
 [![Discord Badge](https://img.shields.io/badge/-Asthi21-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#Asthi21#5658)
